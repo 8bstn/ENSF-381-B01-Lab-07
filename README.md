@@ -5,5 +5,5 @@ concepts like component structure, state management, and event handling while
 giving you hands-on experience with React’s core principles.
 
 ## Collaborators:
-Sebastian Silva (30131305)
-Olubadejo Erioluwa Temiloluwa (30187041)
+- Sebastian Silva (30131305)
+- Olubadejo Erioluwa Temiloluwa (30187041)
